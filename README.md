@@ -1,0 +1,1 @@
+# Code to process IR video from FLIR cameras
